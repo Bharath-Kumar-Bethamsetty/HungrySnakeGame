@@ -2,6 +2,10 @@
 
 A classic arcade-style game built with Pygame. In this game, players control a snake that grows longer by eating food while avoiding collisions with walls and itself. The game is designed to be simple and fun, making it an excellent project for learning game development basics in Python.
 
+## Screenshot for reference
+
+![Game Screenshot](images/screenshot.png)
+
 ## Features
 
 - Simple and intuitive controls
