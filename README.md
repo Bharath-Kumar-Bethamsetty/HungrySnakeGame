@@ -24,11 +24,9 @@ A classic arcade-style game built with Pygame. In this game, players control a s
    bash
    Copy code
    pip install pygame
+   How to Play
+   Run the game:
    ```
-
-## How to Play
-
-Run the game:
 
 bash
 Copy code
@@ -49,16 +47,7 @@ Press the Space bar to restart the game after a game-over.
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 
 Inspired by the classic Snake game.
 Built with Pygame, a powerful library for game development in Python.
-
-### Instructions
-
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- Feel free to modify any sections according to your preferences or to add more details. This README provides a good overview of the project and includes essential information for users who want to run or contribute to your game.
