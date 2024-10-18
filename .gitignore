@@ -1,0 +1,18 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pygame files
+*.pyo
+*.pyd
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Virtual environment directory (if using)
+venv/
